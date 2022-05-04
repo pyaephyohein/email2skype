@@ -1,0 +1,7 @@
+
+version: "3.9"  # optional since v1.27.0
+services:
+  email2skype:
+    image: email2skype:1.0
+    volumes:
+      - $PWD/src/:/home/ubuntu/app:rw
