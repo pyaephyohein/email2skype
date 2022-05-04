@@ -4,3 +4,5 @@ emailhost=
 emailport=
 skypeusername=
 skypepassword=
+FROM=
+TO=
